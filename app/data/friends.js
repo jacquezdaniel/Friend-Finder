@@ -9,7 +9,7 @@ var friends = [ {
 },{
     "name" : "Frieza",
     "photo" : "https://imgix.ranker.com/user_node_img/50081/1001612389/original/mighty-frieza-photo-u2?w=650&q=50&fm=pjpg&fit=crop&crop=faces",
-    "scores":[ 2, 3, 1, 4, 5, 5, 3, 4, 5. 1],
+    "scores":[ 2, 3, 1, 4, 5, 5, 3, 4, 5, 1],
 },{
     "name" : "Majin Buu",
     "photo" : "https://vignette.wikia.nocookie.net/dragonball/images/a/a6/MajinBuuKidDebutNV.png/revision/latest?cb=20150325220800",
